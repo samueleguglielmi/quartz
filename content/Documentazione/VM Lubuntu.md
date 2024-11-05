@@ -88,3 +88,4 @@ Creare l’utente definendo nome e password.
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXflbBgCaWHrJtRw0dzrkKQXBbDw9chr9O64bgOBWOiC9Ryb7TKTmz7FjwmbQksu4SiqaS66pjI5HKu4iYS9MW_E5hl6N7c_OjdjFaRunVun-QyMpgb3x1ydacAHGwf2g3IIrkb5bfEtblTlMliEErLDFCUY?key=uUQtOtXgTpwj89WH-TNHVQ)  
 
 Infine, dopo aver controllato il riassunto, procedere con l'installazione. 
+

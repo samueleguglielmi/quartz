@@ -1,5 +1,5 @@
 
-Creare note con Obsidian e pubblicarle su GitHub
+Creare note con Obsidian e pubblicarle su GitHub. Usiamo una [[VM Lubuntu]]
 
 Prerequisiti:
 
