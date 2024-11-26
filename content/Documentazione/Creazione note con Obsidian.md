@@ -155,3 +155,4 @@ Per salvare i cambiamenti uso  npx quartz sync.
 
 Il sito sarà disponibile <github-username>.github.io/<repository-name>.
 
+Per visualizzare il sito senza errori è obbligatorio mantenere il file index.md; perché in sua assenza non si potrà vedere la documentazione pubblicata.
