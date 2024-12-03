@@ -1,3 +1,6 @@
 Ciao, per chi vorrà saranno accessibili le mie relazioni. Spero che possano essere utili.
 
-Non pubblicherò appunti perché sono cartacei e non ho voglia di trascriverli, e poi perché nessuno sta attento a lezione.
+Sono Obbligato ad inserire gli appunti, trascrivendoli da cartacei. 
+
+PLS state attenti a lezione perché questo è lavoro in più che faccio per voi.
+
